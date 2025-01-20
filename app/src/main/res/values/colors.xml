@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light_divider_line">#1AFFFFFF</color>
+    <color name="gray">#ff5e5e5e</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="light_gray2">#444444</color>
+</resources>

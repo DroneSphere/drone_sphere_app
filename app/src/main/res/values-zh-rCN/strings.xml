@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm">确认</string>
+    <string name="key_value_set">设置</string>
+    <string name="key_search">搜索\n</string>
+    <string name="commonlyused_key">常用Key</string>
+    <string name="index_tips">index:表示负载的位置一般为0 \\n subType:表示镜头 0 = zoom ，1 = wide ， 2 = ir \\n subIndex:目前只有电池箱用到表示下一级小配件位置</string>
+
+    <!-- Camera preview -->
+    <string name="title_select_yuv_format">选择图片格式</string>
+    <string name="title_select_yuv_format_ok">确定</string>
+    <string name="title_select_yuv_format_cancel">取消</string>
+</resources>

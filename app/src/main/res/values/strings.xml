@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">DroneSphere</string>
+    <string name="uxsdk_assistant_video_empty_text" translatable="false">Default</string>
+    <string name="confirm">Default</string>
+    <string name="key_value_set">Default</string>
+    <string name="commonlyused_key">Default</string>
+    <string name="index_tips">Default</string>
+
+    <!-- Camera preview -->
+    <string name="title_select_yuv_format">Default</string>
+    <string name="title_select_yuv_format_ok">Default</string>
+    <string name="title_select_yuv_format_cancel">Default</string>
+    <string name="key_search">Default</string>
+</resources>
